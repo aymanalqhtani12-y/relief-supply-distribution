@@ -1,0 +1,126 @@
+please Enter your area: 
+taiz
+please Enter The damage ('High', 'Mediumme', 'Low'):
+high
+please Enter family affected: 
+150
+pleas Enter route situation (if Damaged enter 'Damaged' 
+Damaged
+where there a warnaning? (Yes/No) 
+yes
+do you need any medcal need? (yes/No) 
+yes
+have you recived previous aid? (Yes/no) 
+no
+Requist number < 1 > (from [taiz]  damaged level is [high])	,        (Families affected[150],)
+(Route situation [Damaged])	, (Flood warning [yes])	, (Medical need [yes])	, (Previous Aid [ no])
+======================================
+	========================================
+trucks usedd [2]
+packs used [50]
+|total score [70])
+Action: [A]
+remining trucks [1]
+remining packs [10]
+please Enter your area: 
+ibb
+please Enter The damage ('High', 'Mediumme', 'Low'):
+medium
+please Enter family affected: 
+60
+pleas Enter route situation (if Damaged enter 'Damaged' 
+open
+where there a warnaning? (Yes/No) 
+no
+do you need any medcal need? (yes/No) 
+no
+have you recived previous aid? (Yes/no) 
+yes
+Requist number < 2 > (from [ibb]  damaged level is [medium])	,        (Families affected[60],)
+(Route situation [open])	, (Flood warning [no])	, (Medical need [no])	, (Previous Aid [ yes])
+======================================
+	========================================
+trucks usedd [0]
+packs used [0]
+|total score [11])
+Action: [D]
+remining trucks [1]
+remining packs [10]
+please Enter your area: 
+aden
+please Enter The damage ('High', 'Mediumme', 'Low'):
+high
+please Enter family affected: 
+90
+pleas Enter route situation (if Damaged enter 'Damaged' 
+open
+where there a warnaning? (Yes/No) 
+yes
+do you need any medcal need? (yes/No) 
+yes
+have you recived previous aid? (Yes/no) 
+no
+Requist number < 3 > (from [aden]  damaged level is [high])	,        (Families affected[90],)
+(Route situation [open])	, (Flood warning [yes])	, (Medical need [yes])	, (Previous Aid [ no])
+Fallback: score wanted [B] but not enough trucks or packs, gave [C]
+======================================
+	========================================
+trucks usedd [1]
+packs used [10]
+|total score [59])
+Action: [C]
+remining trucks [0]
+remining packs [0]
+please Enter your area: 
+nasim
+please Enter The damage ('High', 'Mediumme', 'Low'):
+low
+please Enter family affected: 
+200
+pleas Enter route situation (if Damaged enter 'Damaged' 
+open
+where there a warnaning? (Yes/No) 
+no
+do you need any medcal need? (yes/No) 
+no
+have you recived previous aid? (Yes/no) 
+no
+Requist number < 4 > (from [nasim]  damaged level is [low])	,        (Families affected[200],)
+(Route situation [open])	, (Flood warning [no])	, (Medical need [no])	, (Previous Aid [ no])
+Fallback: score wanted [C] but not enough trucks or packs, gave [D]
+======================================
+	========================================
+trucks usedd [0]
+packs used [0]
+|total score [25])
+Action: [D]
+remining trucks [0]
+remining packs [0]
+please Enter your area: 
+qasim
+please Enter The damage ('High', 'Mediumme', 'Low'):
+high
+please Enter family affected: 
+40
+pleas Enter route situation (if Damaged enter 'Damaged' 
+damaged
+where there a warnaning? (Yes/No) 
+yes
+do you need any medcal need? (yes/No) 
+yes
+have you recived previous aid? (Yes/no) 
+yes
+Requist number < 5 > (from [qasim]  damaged level is [high])	,        (Families affected[40],)
+(Route situation [damaged])	, (Flood warning [yes])	, (Medical need [yes])	, (Previous Aid [ yes])
+Fallback: score wanted [B] but not enough trucks or packs, gave [D]
+======================================
+	========================================
+trucks usedd [0]
+packs used [0]
+|total score [54])
+Action: [D]
+remining trucks [0]
+remining packs [0]
+===== Summary =====
+Handled:  2
+Deferred: 3
